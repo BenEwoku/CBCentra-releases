@@ -1,0 +1,6 @@
+﻿regNo,student_name,class_id,subject_id,term_id,academic_year_id,assessment_method,marks,max_marks,teacher_comment
+HIMH256519-ST,John Doe,1,1,1,1,written,74,100,Very Good
+HIMH259881-ST,Mary Smith,3,1,1,1,written,56,100,Average
+HIMH257864-ST,David Johnson,1,1,1,1,written,90,100,Excellent work
+HIMH258389-ST,Alice Brown,6,1,1,1,written,85,100,Excellent work
+HIMH254646-ST,Emma Davis,3,1,1,1,written,65,100,Good
