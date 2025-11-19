@@ -1,0 +1,23 @@
+# Releases repository - Executables and Archives only
+*
+!.gitignore
+!README.md
+
+# Executables
+!*.exe
+!*.msi
+!*.dmg
+!*.deb
+!*.rpm
+!*.AppImage
+
+# Archives (Essential for releases)
+!*.zip
+!*.rar
+!*.7z
+!*.tar.gz
+!*.tar.bz2
+
+# Optional: Small documentation if bundled with executables
+# !CHANGELOG.md
+# !INSTALL.txt
